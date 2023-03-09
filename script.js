@@ -3,7 +3,7 @@ function GradeCalculate (event){
         {event.preventDefault()}
 
 
-let percentage = document.getElementById("percentage").value;
+let percentage = document.getElementById("Percentage").value;
 let result = ""
 
 if (percentage <0){
